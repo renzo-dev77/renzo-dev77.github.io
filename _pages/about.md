@@ -14,7 +14,7 @@ El proposito de este sitio es multiple:
 + un blog de tecnología
 + un hub de contactos y sitios recomendados
 
-Este sitio está basado en este [template](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) 
+Este sitio está basado en este [template](https://academicpages.github.io) 
 
 For more info
 ------
