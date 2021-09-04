@@ -85,8 +85,8 @@ author:
   bio              : "Tecnología para humanos"
   location         : "Santiago, Chile"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           :
+  googlescholar    :
   email            : "renzoalberto@protonmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -99,7 +99,7 @@ author:
   github           : "https://github.com/renzo-dev77"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/renzovarela/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
