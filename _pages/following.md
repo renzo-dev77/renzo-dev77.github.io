@@ -4,7 +4,7 @@ title: "Seguidos"
 permalink: /following/
 author_profile: true
 redirect_from:
-  - /resume
+  - /seguidos
 ---
 
 {% include base_path %}
