@@ -1,3 +1,15 @@
+---
+layout: archive
+title: "Seguidos"
+permalink: /following/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
+
 * [Nucleo Accesibilidad & Inclusión](http://accesibilidad-inclusion.cl "Nucleo")
   Grupo de investigadores dedicados a desarrollar productos, procesos, entornos y servicios accesibles e inclusivos desde su origen.
   
