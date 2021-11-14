@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-< TITLE > INSTITUCIONES < /TITLE >
+## INSTITUCIONES
 
 * [Nucleo Accesibilidad & Inclusión](http://accesibilidad-inclusion.cl "Nucleo")
   Grupo de investigadores dedicados a desarrollar productos, procesos, entornos y servicios accesibles e inclusivos desde su origen.
@@ -27,14 +27,14 @@ redirect_from:
   Laboratorio de la prestiogiosa univversidad MIT. De este laboratorio salen las tecnologías más disrruptivas que conozco.
   <br/><img src='/images/Mit_medialab_logo.png'>
 
-< TITLE > EMPRESAS < /TITLE >
+## EMPRESAS
 
 * [protonmail](https://protonmail.com/blog/ "protonmail")
   Protonmail es una empresa que partió con el servicio de mail y ahora entrega una serie de servicios de uso diario en internet basados en la seguridad. El blog es mi lugar favorito para aprender de cyberseguridad
   <br/><img src='/images/ProtonMail-Swiss.png'>
 
 
-< TITLE > PERSONAS < /TITLE >
+## PERSONAS
 
 * [Simon Weckert](http://simonweckert.com/work.html "Simon")
   Artista y hacker. Es la persona que realizó la performance: "Google Maps Hacks" 
