@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Cool page html"
+title: "Cool page"
 permalink: /coolPage/
 author_profile: true
 ---
@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-Esta es mi cool page hecha en HTML
+Esta es mi cool page hecha
 aquí hay una imagen:
 
 
