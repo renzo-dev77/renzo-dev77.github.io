@@ -12,6 +12,7 @@ redirect_from:
 
 * [Nucleo Accesibilidad & Inclusión](http://accesibilidad-inclusion.cl "Nucleo")
   Grupo de investigadores dedicados a desarrollar productos, procesos, entornos y servicios accesibles e inclusivos desde su origen.
+  <br/><img src='/images/NAI.png'>
   
 * [Herbert Spencer](https://www.herbertspencer.net "Herbert")
   Profesor de la Escuela de arquitectura y diseño. Amigo.
