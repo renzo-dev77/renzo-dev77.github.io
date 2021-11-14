@@ -14,9 +14,6 @@ main:
     
   - title: "CV"
     url: /cv/
-    
-  - title: "Guia de uso"
-    url: /markdown/
 
   - title: "Seguidos"
     url: /following/    
