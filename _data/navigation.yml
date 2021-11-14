@@ -20,3 +20,6 @@ main:
 
   - title: "Seguidos"
     url: /following/    
+
+  - title: "Cool Page"
+    url: /cooPage/    
