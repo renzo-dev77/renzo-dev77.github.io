@@ -42,7 +42,7 @@ redirect_from:
 
 * [Chema Alonso](https://www.elladodelmal.com "Chema Alonso")
   Autodenominado como: "Un hacker en el lado del mal" y no precisamente por ser malvado, sino por ser un hacker que trabaja en compañias multinacionales gigantescas (Microsoft antes y Telefónica ahora). 
-  <br/><img src='/images/chema.jpeg'>
+  <br/><img src='/images/las-empresas-que-no-tienen-emprendedores-en-su-staff-se-mueren.jpg'>
 
 * [Herbert Spencer](https://www.herbertspencer.net "Herbert")
   Profesor de la Escuela de arquitectura y diseño.
