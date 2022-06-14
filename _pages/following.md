@@ -14,7 +14,6 @@ redirect_from:
 * [Nucleo Accesibilidad & Inclusión](http://accesibilidad-inclusion.cl "Nucleo")
   Grupo de investigadores dedicados a desarrollar productos, procesos, entornos y servicios accesibles e inclusivos desde su origen.
   <br/><img src='/images/NAI.png'>
-  <center> <br/><img src='/images/NAI.png'> <center>
   
 * [Escuela de Arquitectura y Diseño](https://www.ead.pucv.cl "la escuela")
   Escuela de Arquitectura y Diseño de la PUCV donde yo hago clases!
