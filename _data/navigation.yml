@@ -3,6 +3,9 @@ main:
 
   - title: "Blog"
     url: /year-archive/
+    
+  - title: "Bitacora"
+    url: /MCD_EC_2022/
 
   - title: "Seguidos"
     url: /following/    
