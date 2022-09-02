@@ -5,7 +5,6 @@ excerpt: "19/08/2022<br>Introducción"
 collection: bitacora
 ---
 
-# Clase 1
 19/08/2022
 ### Introducción, presentación
 ### Instalación software Arduino
