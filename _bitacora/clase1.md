@@ -9,7 +9,7 @@ collection: bitacora
 ### Introducción, presentación
 ### Instalación software Arduino
 Instalar el software Arduino desde este [link](https://www.arduino.cc/en/software)<br>
-_Cuidado con los Arduinos Chinos!: [https://bricolabs.cc/wiki/guias/mac_os_y_ch340_](https://bricolabs.cc/wiki/guias/mac_os_y_ch340_)
+_Cuidado con los Arduinos Chinos!: [https://bricolabs.cc/wiki/guias/mac_os_y_ch340](https://bricolabs.cc/wiki/guias/mac_os_y_ch340)_
 ### Blink
 Para confirmar la instalación correcta del software de Arduino se cargo el programa "Blink" de los ejemplos de Arduino.<br>
 <br>
