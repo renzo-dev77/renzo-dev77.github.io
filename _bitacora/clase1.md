@@ -6,4 +6,10 @@ collection: bitacora
 ---
 
 # Clase 1
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+19/08/2022
+### Introducción, presentación
+### Instalación software Arduino
+Instalar el software Arduino desde: https://www.arduino.cc/en/software
+_Cuidado con los Arduinos Chinos!: https://bricolabs.cc/wiki/guias/mac_os_y_ch340_
+### Blink
+![ejemplo blink arduino](https://github.com/renzo-dev77/MCD2022/blob/main/Electronica%20Creativa/images/blink.png)
