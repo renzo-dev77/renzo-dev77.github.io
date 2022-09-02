@@ -13,4 +13,5 @@ _Cuidado con los Arduinos Chinos!: https://bricolabs.cc/wiki/guias/mac_os_y_ch34
 ### Blink
 Para confirmar la instalación correcta del software de Arduino se cargo el programa "Blink" de los ejemplos de Arduino.<br>
 <br>
-![ejemplo blink arduino](https://github.com/renzo-dev77/MCD2022/blob/main/Electronica%20Creativa/images/blink.png)
+<br/><img src='/images/blink.png'>
+
