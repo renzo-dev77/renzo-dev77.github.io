@@ -1,7 +1,7 @@
 ---
 title: "Clase 2"
-[comment]: #(excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>")
-excerpt: "20/08/2022"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/arduino-logo.png'>"
+
 collection: bitacora
 ---
 
