@@ -19,19 +19,19 @@ Asegúrate de que que tu placa y puerto sea el correcto en: Arduino_Herramientas
 ### Parte 1:
 Realiza los siguientes ejercicios de la guía [SIK](https://cdn.sparkfun.com/datasheets/Kits/Spanish_SIK_Guide%203.1v.pdf): 
 1. Blink 1
-<br/><img src='/images/IMG1777.jpeg'>
+<br/><img src='/images/IMG_1777.jpeg'>
 3. Multiples LEDs 4
-<br/><img src='/images/IMG1778.jpeg'>
+<br/><img src='/images/IMG_1778.jpeg'>
 4. Botón presionable 5 
-<br/><img src='/images/IMG1783.jpeg'>
+<br/><img src='/images/IMG_1783.jpeg'>
 5. Potenciómetro 10 
-<br/><img src='/images/IMG1804.jpeg'>
-<br/><img src='/images/IMG1805.jpeg'>
-<br/><img src='/images/IMG1806.jpeg'>
+<br/><img src='/images/IMG_1804.jpeg'>
+<br/><img src='/images/IMG_1805.jpeg'>
+<br/><img src='/images/IMG_1806.jpeg'>
 6. Fotoresistencia 6
-<br/><img src='/images/IMG1811.jpeg'>
+<br/><img src='/images/IMG_1811.jpeg'>
 7. Sensor de Temperatura 7
-<br/><img src='/images/IMG1812.jpeg'>
+<br/><img src='/images/IMG_1812.jpeg'>
 
 ### Parte 2:  
 7. Sensor Flex 9 (sensor flex DIY https://www.youtube.com/watch?v=b7zT94WV-Ek)
