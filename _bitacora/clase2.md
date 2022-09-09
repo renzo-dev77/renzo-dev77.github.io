@@ -1,6 +1,6 @@
 ---
 title: "Clase 2"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/arduino-logo.png'>"
+excerpt: "Desarrollo Guia SIK<br/><img src='/images/arduino-logo.png'>"
 
 collection: bitacora
 ---
