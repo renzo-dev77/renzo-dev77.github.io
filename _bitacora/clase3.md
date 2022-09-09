@@ -6,4 +6,11 @@ collection: bitacora
 ---
 
 ## Sensor de presión.
-Se desarrolla un sensor DIY según las instrucciónes de la guía que se entrega. Los resultados acontinuación:
+Se desarrolla un sensor DIY según las instrucciónes de la guía que se entrega. Los resultados acontinuación:<br>
+El sensor funciona como un sensor de presión o boton pulsador.
+
+
+<br/><img src='/images/IMG_1792.png'>
+<br/><img src='/images/IMG_1794.png'>
+<br/><img src='/images/IMG_1796.png'>
+
