@@ -1,13 +1,15 @@
 ---
 title: "Clase 4"
-excerpt: "Investigación sensor de Pulso<br/><img src='/images/pulsesensor.webp'>"
+excerpt: "Investigación sensor de Pulso<br/><img src='/images/pulsesensor.jpeg'>"
 excerpt: "2/08/2022"
 collection: bitacora
 ---
 
 
 En la clase anterior se dejó el encargo de estudiar el funcionamiento de un sensor.
-El informe final del sensor se puede encontrar en el siguiente [link](https://docs.google.com/document/d/1j-7K9k5n8qEvgfM18vUcOIWZIa7wuR-04lXfG3Sfves/edit?usp=sharing)<br><br>
+El informe final del sensor se puede encontrar en el siguiente [link](https://docs.google.com/document/d/1j-7K9k5n8qEvgfM18vUcOIWZIa7wuR-04lXfG3Sfves/edit?usp=sharing)<br>
+
+<br/><img src='/images/pulsesensor.jpeg'>
 
 Durante la clase se hizo la presentación del estudio del sensor.
 El sensor escogido por el equipo fue el sensor de pulso fabricado por [pulse sensor](https://pulsesensor.com)
