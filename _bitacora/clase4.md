@@ -1,6 +1,6 @@
 ---
 title: "Clase 4"
-[comment]: #(excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>")
+excerpt: "Investigación sensor de Pulso<br/><img src='/images/pulsesensor.webp'>"
 excerpt: "2/08/2022"
 collection: bitacora
 ---
