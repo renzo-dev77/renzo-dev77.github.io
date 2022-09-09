@@ -12,32 +12,30 @@ El informe final del sensor se puede encontrar en el siguiente [link](https://do
 Durante la clase se hizo la presentación del estudio del sensor.
 El sensor escogido por el equipo fue el sensor de pulso fabricado por [pulse sensor](https://pulsesensor.com)
 
+<q>
+Encargo Viernes 02 de Septiembre
+Presentación/Informe Sensor
 
-> Encargo Viernes 02 de Septiembre
-> Presentación/Informe Sensor
+Deben como grupo elegir un sensor y crear un informe/presentación sobre: 
+Informe:
+-	Breve historia
+-	Tipos (cómo se puede ver) 
+-	Rangos de funcionamiento 
+-	Spec Sheet o data sheet
+-	De qué está hecho 
+-	1 o 2 ejemplos de usos en la industria o objetos 
+**Incluir fotos/dibujos/gif/videos, etc.
 
-> Deben como grupo elegir un sensor y crear un informe/presentación sobre: 
+Prototipo funcional:
+El mini informe debe tener 1 prototipo funcional mostrando el uso del sensor. Para este trabajo hay 1 semana, considerando que llegue el sensor que decidan comprar.
 
-> Informe:
-> -	Breve historia
-> -	Tipos (cómo se puede ver) 
-> -	Rangos de funcionamiento 
-> -	Spec Sheet o data sheet
-> -	De qué está hecho 
-> -	1 o 2 ejemplos de usos en la industria o objetos 
-> **Incluir fotos/dibujos/gif/videos, etc.
+Pueden considerar si quieren:
+•	Usar Bluetooth 50 para Arduino que te ayudará a conectar algo remotamente a tu circuito.
+•	Revisar tutorial de radios Zigbee en webC.
+•	Otra placa Arduino (puedes investigar la Raspberry PICO)
+•	https://dynamoelectronics.com/como-programar-raspberry-pi-pico-con-arduino/
+•	Revisa el tutorial de ESP32 para envío de datos a la web
 
-> Prototipo funcional:
-> El mini informe debe tener 1 prototipo funcional mostrando el uso del sensor. Para este trabajo hay 1 semana, considerando que llegue el sensor que decidan comprar.
-
-> Pueden considerar si quieren:
-> •	Usar Bluetooth 50 para Arduino que te ayudará a conectar algo remotamente a tu circuito.
-> •	Revisar tutorial de radios Zigbee en webC.
-> •	Otra placa Arduino (puedes investigar la Raspberry PICO)
-> •	https://dynamoelectronics.com/como-programar-raspberry-pi-pico-con-arduino/
-> •	Revisa el tutorial de ESP32 para envío de datos a la web
-
-> Recordar:
-> -	Presentación grupal en 7min 
-> -	Subir todo a sus blogs
-
+Recordar:
+-	Presentación grupal en 7min 
+-	Subir todo a sus blogs</q>
