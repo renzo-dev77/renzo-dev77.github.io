@@ -19,17 +19,24 @@ Asegúrate de que que tu placa y puerto sea el correcto en: Arduino_Herramientas
 ### Parte 1:
 Realiza los siguientes ejercicios de la guía [SIK](https://cdn.sparkfun.com/datasheets/Kits/Spanish_SIK_Guide%203.1v.pdf): 
 1. Blink 1
-2. Multiples LEDs 4
-3. Botón presionable 5 
-4. Potenciómetro 10 
-5. Fotoresistencia 6
-6. Sensor de Temperatura 7
+<br/><img src='/images/IMG1777.jpeg'>
+3. Multiples LEDs 4
+<br/><img src='/images/IMG1778.jpeg'>
+4. Botón presionable 5 
+<br/><img src='/images/IMG1783.jpeg'>
+5. Potenciómetro 10 
+<br/><img src='/images/IMG1804.jpeg'>
+<br/><img src='/images/IMG1805.jpeg'>
+<br/><img src='/images/IMG1806.jpeg'>
+6. Fotoresistencia 6
+<br/><img src='/images/IMG1811.jpeg'>
+7. Sensor de Temperatura 7
+<br/><img src='/images/IMG1812.jpeg'>
 
 ### Parte 2:  
 7. Sensor Flex 9 (sensor flex DIY https://www.youtube.com/watch?v=b7zT94WV-Ek)
-8. Buzzer 11
-9. Motor Spin 12
-10. Pantalla LCD 15
-11. Simón dice 16 [Link](https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v41/circuit-2c-simon-says-game)
+<br/><img src='/images/IMG1814.jpeg'>
+
+
 
  
