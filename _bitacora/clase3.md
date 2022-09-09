@@ -11,6 +11,8 @@ El sensor funciona como un sensor de presión o boton pulsador.
 
 
 <br/><img src='/images/IMG_1792.png'>
+<br>
 <br/><img src='/images/IMG_1794.png'>
+<br>
 <br/><img src='/images/IMG_1796.png'>
-
+<br>
