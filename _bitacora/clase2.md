@@ -21,7 +21,7 @@ Realiza los siguientes ejercicios de la guía [SIK](https://cdn.sparkfun.com/dat
 <br/><img src='/images/IMG_1777.jpeg'>
 <br>
 3. Multiples LEDs 4
-<br/><img src='/images/IMG_1778.jpeg'>
+<br/><img src='/images/IMG_1779.jpeg'>
 <br>
 4. Botón presionable 5 
 <br/><img src='/images/IMG_1783.jpeg'>
@@ -37,7 +37,7 @@ Realiza los siguientes ejercicios de la guía [SIK](https://cdn.sparkfun.com/dat
 <br>
 ### Parte 2:  
 7. Sensor Flex 9 (sensor flex DIY https://www.youtube.com/watch?v=b7zT94WV-Ek)
-<br/><img src='/images/IMG1814.jpeg'>
+<br/><img src='/images/IMG_1814.jpeg'>
 <br>
 
 
