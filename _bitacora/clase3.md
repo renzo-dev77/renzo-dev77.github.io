@@ -1,6 +1,6 @@
 ---
 title: "Clase 3"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/IMG_1796.png'>"
+excerpt: "Sensor de presión DIY<br/><img src='/images/IMG_1796.png'>"
 excerpt: "26/08/2022"
 collection: bitacora
 ---
