@@ -3,9 +3,6 @@ main:
 
   - title: "Blog"
     url: /year-archive/
-    
-  - title: "Bitacora"
-    url: /bitacora/
 
   - title: "Seguidos"
     url: /following/    
@@ -13,4 +10,5 @@ main:
   - title: "CV"
     url: /cv/
 
-  
+# - title: "Bitacora"
+#    url: /bitacora/  
