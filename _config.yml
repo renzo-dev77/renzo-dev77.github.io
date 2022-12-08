@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "dev77"
-  avatar           : "profile.jpg"
-  bio              : "Tecnología para humanos"
-  location         : "Santiago, Chile"
-  employer         : "PUCV | Convergia"
+  name             : # "dev77"
+  avatar           : # "profile.jpg"
+  bio              : # "Tecnología para humanos"
+  location         : # "Santiago, Chile"
+  employer         : # "PUCV | Convergia"
   pubmed           :
   googlescholar    :
-  email            : "renzoalberto@protonmail.com"
+  email            : # "renzoalberto@protonmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "renzo-dev77"
+  github           : # "renzo-dev77"
   google_plus      :
   keybase          :
-  instagram        : "renzovarela/"
+  instagram        : # "renzovarela/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "renzo-varela-rojas-185b97158/"
+  linkedin         : # "renzo-varela-rojas-185b97158/"
   orcid            :
   pinterest        :
   soundcloud       :
