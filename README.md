@@ -11,20 +11,20 @@ See more info at https://academicpages.github.io/
 
 Following instructions to post content:
 
-## Locations of key files/directories
+## Ubicaciones de archivos/directorios importantes
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
+* Configuracion básica: _config.yml
+* Barra de navegación: _data/navigation.yml
+* Páginas individuales: _pages/
+* Las colecciones de paginas son archivos .ms o .hmtl en:
   * _publications/
   * _portfolio/
   * _posts/
   * _teaching/
   * _talks/
 * Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+* Archivos (como PDFs): /files/
+* Imagen de perfil (se puede configurar en _config.yml): images/profile.png
 
 ## Tips and hints
 
