@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : # "dev77"
-  avatar           : false # "profile.jpg"
+  avatar           : "site-logo.png"
   bio              : # "Tecnología para humanos"
   location         : # "Santiago, Chile"
   employer         : # "PUCV | Convergia"
